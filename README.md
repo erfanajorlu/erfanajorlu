@@ -35,10 +35,10 @@ Here are some ideas to get you started:
   <a href="https://nestjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> 
   </a>
-  <a href="https://go.com" target="_blank" rel="noreferrer"> 
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> 
   </a>
-  <a href="https://elasticsearch.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/> 
   </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 

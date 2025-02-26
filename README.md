@@ -25,9 +25,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-        </a> 
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="48" height="48"/>  
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -43,15 +41,11 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-        </a> 
+          <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="48" height="48"/> 
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-        </a>
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="48" height="48"/> 
       <br>MongoDB
     </td>
   </tr>
@@ -67,6 +61,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS Logo" />
       <br>NestJS
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Git Logo" />
+      <br>Elasticsearch
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis Logo" />

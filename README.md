@@ -25,7 +25,9 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js Logo" width="65" height="65" />
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        </a> 
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -41,11 +43,15 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL Logo" width="65" height="65" />
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+        </a> 
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB Logo" width="65" height="65" />
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+        </a>
       <br>MongoDB
     </td>
   </tr>

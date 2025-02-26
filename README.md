@@ -25,49 +25,49 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js Logo" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Logo" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Logo" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL Logo" width="65" height="65" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL Logo" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB Logo" width="65" height="65" />
       <br>MongoDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Logo" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js Logo" />
       <br>Express.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS Logo" />
       <br>NestJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis Logo" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Logo" />
       <br>Git
     </td>
   </tr>
@@ -111,5 +111,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/erfanajorlu/count.svg?"  />
 </div>
-
-###

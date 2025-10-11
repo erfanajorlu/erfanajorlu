@@ -1,116 +1,76 @@
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Erfan+Ajorlu;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Erfan+Ajorlu;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30" alt="Welcome Banner">
 </h3>
 
-###
+---
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
 
-###
+---
 
-<h1 align="left">💫 About Me:</h1>
+## 💫 About Me
 
-###
+Passionate Backend developer with expertise in back-end technologies like Node.js, GraphQL, MongoDB, and PostgreSQL. Always eager to learn and take on new challenges in the tech world.
 
-<p align="left">Passionate Backend developer with expertise in back-end technologies like Node.js, GraphQL, MongoDB, and PostgreSQL. Always eager to learn and take on new challenges in the tech world.<br><br>🔭 As a backend developer, I create robust and scalable server-side applications.<br>⚡ Now ... I'm ready to work with big teams.</p>
+- 🔭 As a backend developer, I create robust and scalable server-side applications.
+- ⚡ Ready to work with big teams and collaborate on large-scale projects.
+- 🚀 Focused on building high-performance, maintainable code.
 
-###
+---
 
-<h1 align="left">💻 Tech Stack:</h1>
+## 💻 Tech Stack
 
-###
+| Language & Framework | Database | Tools & Platforms |
+|---|---|---|
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL | ![Docker](https://skillicons.dev/icons?i=docker) Docker |
+| ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) JavaScript | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB | ![Git](https://skillicons.dev/icons?i=git) Git |
+| ![TypeScript](https://techstack-generator.vercel.app/ts-icon.svg) TypeScript | ![Redis](https://skillicons.dev/icons?i=redis) Redis | ![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch) Elasticsearch |
+| ![GraphQL](https://techstack-generator.vercel.app/graphql-icon.svg) GraphQL | - | ![Express.js](https://skillicons.dev/icons?i=express) Express.js |
+| - | - | ![NestJS](https://skillicons.dev/icons?i=nestjs) NestJS |
 
-<br clear="both">
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="48" height="48"/>  
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Logo" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Logo" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL Logo" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="48" height="48"/> 
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="48" height="48"/> 
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Logo" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js Logo" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS Logo" />
-      <br>NestJS
-    </td> 
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Git Logo" />
-      <br>Elasticsearch
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis Logo" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Logo" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-<br><br>
-
-###
-
-<h1 align="left">🌐 Socials:</h1>
-
-###
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="malito:erfanajoglu098@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="39" alt="gmail logo"  />
+  <a href="mailto:erfanajoglu098@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/erfan-ajorlu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/erfanajorlu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="github logo" />
   </a>
 </div>
 
-###
-<h1 align="left">📊 GitHub Stats:</h1>
+---
 
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanajorlu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanajorlu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanajorlu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanajorlu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake Animation
 
-<img src="https://raw.githubusercontent.com/erfanajorlu/erfanajorlu/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanajorlu/erfanajorlu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanajorlu/erfanajorlu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/erfanajorlu/erfanajorlu/output/github-contribution-grid-snake.svg" />
+</picture>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/erfanajorlu/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=erfanajorlu&style=for-the-badge&color=0d47a1" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Erfan Ajorlu</p>
 </div>
